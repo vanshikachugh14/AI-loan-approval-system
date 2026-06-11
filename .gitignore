@@ -1,0 +1,19 @@
+# Virtual environments
+myenv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+
+# PDF reports
+*.pdf
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
